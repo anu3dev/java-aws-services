@@ -62,13 +62,13 @@ jobs:
       - name: Deploy to Lambda
         run: |
           aws lambda update-function-code \
-            --function-name java-aws-services-lambda \
+            --function-name java-aws-services \
             --zip-file fileb://lambda.zip
 
       # 8. Show deployment result
       - name: Verify deployment
         run: |
           aws lambda get-function \
-            --function-name java-aws-services-lambda \
+            --function-name java-aws-services \
             --query 'Configuration.[FunctionName,LastModified,LastUpdateStatus]' \
             --output table
