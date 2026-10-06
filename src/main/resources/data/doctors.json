@@ -1,0 +1,62 @@
+[
+  {
+    "doctorId": "DOC-001",
+    "name": "Dr. Rajesh Kumar",
+    "specialization": "Cardiology",
+    "clinic": "Patna Heart Care",
+    "area": "Kankarbagh",
+    "city": "Patna",
+    "yearsOfPractice": 14,
+    "preferredVisitFrequency": "Every 2 weeks"
+  },
+  {
+    "doctorId": "DOC-002",
+    "name": "Dr. Anjali Sinha",
+    "specialization": "General Medicine",
+    "clinic": "Sinha Medical Centre",
+    "area": "Rajendra Nagar",
+    "city": "Patna",
+    "yearsOfPractice": 11,
+    "preferredVisitFrequency": "Monthly"
+  },
+  {
+    "doctorId": "DOC-003",
+    "name": "Dr. Vivek Prasad",
+    "specialization": "Diabetology",
+    "clinic": "Prasad Diabetes Clinic",
+    "area": "Boring Road",
+    "city": "Patna",
+    "yearsOfPractice": 16,
+    "preferredVisitFrequency": "Every 2 weeks"
+  },
+  {
+    "doctorId": "DOC-004",
+    "name": "Dr. Neeraj Verma",
+    "specialization": "Orthopedics",
+    "clinic": "Verma Ortho Clinic",
+    "area": "Danapur",
+    "city": "Patna",
+    "yearsOfPractice": 12,
+    "preferredVisitFrequency": "Monthly"
+  },
+  {
+    "doctorId": "DOC-005",
+    "name": "Dr. Pooja Jha",
+    "specialization": "Pediatrics",
+    "clinic": "Jha Child Care",
+    "area": "Patna City",
+    "city": "Patna",
+    "yearsOfPractice": 9,
+    "preferredVisitFrequency": "Monthly"
+  },
+  {
+    "doctorId": "DOC-006",
+    "name": "Dr. Sunil Mishra",
+    "specialization": "General Medicine",
+    "clinic": "Mishra Health Point",
+    "area": "Gandhi Maidan",
+    "city": "Patna",
+    "yearsOfPractice": 18,
+    "preferredVisitFrequency": "Every 3 weeks"
+  }
+]

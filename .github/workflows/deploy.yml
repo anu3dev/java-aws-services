@@ -38,6 +38,15 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: ${{ secrets.AWS_REGION }}
 
+      - name: Configure Lambda RAG environment
+        run: |
+          aws lambda update-function-configuration \
+            --function-name java-aws-services \
+            --environment "Variables={
+              BEDROCK_KNOWLEDGE_BASE_ID=${{ secrets.BEDROCK_KNOWLEDGE_BASE_ID }},
+              BEDROCK_MODEL_ID=amazon.nova-micro-v1:0
+            }"
+
       - name: Deploy to Lambda
         run: |
           JAR_FILE=$(find target -maxdepth 1 -type f -name "*.jar" | grep -v ".original" | head -n 1)

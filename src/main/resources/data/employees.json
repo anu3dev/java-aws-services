@@ -1,0 +1,38 @@
+[
+  {
+    "employeeId": "MR-001",
+    "name": "Rahul Singh",
+    "designation": "Medical Representative",
+    "experienceYears": 6,
+    "territory": "Patna Central",
+    "area": "Kankarbagh",
+    "managerId": "MGR-001"
+  },
+  {
+    "employeeId": "MR-002",
+    "name": "Priya Kumari",
+    "designation": "Medical Representative",
+    "experienceYears": 4,
+    "territory": "Patna East",
+    "area": "Rajendra Nagar",
+    "managerId": "MGR-001"
+  },
+  {
+    "employeeId": "MR-003",
+    "name": "Amit Kumar",
+    "designation": "Senior Medical Representative",
+    "experienceYears": 9,
+    "territory": "Patna West",
+    "area": "Danapur",
+    "managerId": "MGR-002"
+  },
+  {
+    "employeeId": "MR-004",
+    "name": "Neha Sharma",
+    "designation": "Medical Representative",
+    "experienceYears": 3,
+    "territory": "Patna South",
+    "area": "Patna City",
+    "managerId": "MGR-002"
+  }
+]

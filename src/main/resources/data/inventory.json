@@ -1,0 +1,42 @@
+[
+  {
+    "productId": "MED-001",
+    "productName": "CardioMax 20",
+    "warehouse": "Patna",
+    "availableUnits": 1250,
+    "sampleUnits": 180,
+    "lastUpdated": "2026-10-05"
+  },
+  {
+    "productId": "MED-002",
+    "productName": "PressSure 10",
+    "warehouse": "Patna",
+    "availableUnits": 920,
+    "sampleUnits": 140,
+    "lastUpdated": "2026-10-05"
+  },
+  {
+    "productId": "MED-003",
+    "productName": "GlucoBalance XR",
+    "warehouse": "Patna",
+    "availableUnits": 760,
+    "sampleUnits": 110,
+    "lastUpdated": "2026-10-05"
+  },
+  {
+    "productId": "MED-004",
+    "productName": "OrthoRelief Plus",
+    "warehouse": "Patna",
+    "availableUnits": 540,
+    "sampleUnits": 75,
+    "lastUpdated": "2026-10-05"
+  },
+  {
+    "productId": "MED-005",
+    "productName": "PediaCare Syrup",
+    "warehouse": "Patna",
+    "availableUnits": 680,
+    "sampleUnits": 95,
+    "lastUpdated": "2026-10-05"
+  }
+]

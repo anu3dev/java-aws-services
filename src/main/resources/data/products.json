@@ -1,0 +1,79 @@
+[
+  {
+    "productId": "MED-001",
+    "brandName": "CardioMax 20",
+    "genericName": "Fictional cardiovascular compound A",
+    "therapeuticCategory": "Cardiovascular",
+    "status": "Active",
+    "keyDiscussionTopics": [
+      "adherence",
+      "elderly patients",
+      "patient response"
+    ],
+    "commonDoctorQuestions": [
+      "What patient profile is most suitable?",
+      "What are common adverse effects?",
+      "How does it compare with competitor products?"
+    ]
+  },
+  {
+    "productId": "MED-002",
+    "brandName": "PressSure 10",
+    "genericName": "Fictional antihypertensive compound B",
+    "therapeuticCategory": "Cardiovascular",
+    "status": "Active",
+    "keyDiscussionTopics": [
+      "patient adherence",
+      "patient follow-up"
+    ],
+    "commonDoctorQuestions": [
+      "What patient profile is most suitable?",
+      "What follow-up information should be monitored?"
+    ]
+  },
+  {
+    "productId": "MED-003",
+    "brandName": "GlucoBalance XR",
+    "genericName": "Fictional metabolic compound C",
+    "therapeuticCategory": "Diabetes",
+    "status": "Active",
+    "keyDiscussionTopics": [
+      "patient adherence",
+      "long-term therapy"
+    ],
+    "commonDoctorQuestions": [
+      "What patient concerns are commonly reported?",
+      "What information should be discussed during follow-up?"
+    ]
+  },
+  {
+    "productId": "MED-004",
+    "brandName": "OrthoRelief Plus",
+    "genericName": "Fictional orthopedic-support compound D",
+    "therapeuticCategory": "Orthopedic",
+    "status": "Active",
+    "keyDiscussionTopics": [
+      "recovery support",
+      "tolerability"
+    ],
+    "commonDoctorQuestions": [
+      "What feedback has been reported?",
+      "What product information is available?"
+    ]
+  },
+  {
+    "productId": "MED-005",
+    "brandName": "PediaCare Syrup",
+    "genericName": "Fictional pediatric compound E",
+    "therapeuticCategory": "Pediatrics",
+    "status": "Active",
+    "keyDiscussionTopics": [
+      "palatability",
+      "caregiver adherence"
+    ],
+    "commonDoctorQuestions": [
+      "How is caregiver adherence affected?",
+      "What product information is available?"
+    ]
+  }
+]

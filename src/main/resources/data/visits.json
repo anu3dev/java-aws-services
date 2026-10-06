@@ -1,0 +1,460 @@
+[
+  {
+    "visitId": "VIS-001",
+    "visitDate": "2026-07-08",
+    "employeeId": "MR-001",
+    "doctorId": "DOC-001",
+    "objective": "Introduce CardioMax 20",
+    "productsDiscussed": [
+      "MED-001"
+    ],
+    "doctorQuestions": [
+      "Asked about suitable patient profiles"
+    ],
+    "feedback": "Doctor requested information about elderly patients.",
+    "competitorsMentioned": [
+      "Fictional competitor CardioPlus 20"
+    ],
+    "samplesProvided": 10,
+    "followUpRequired": true,
+    "followUpDate": "2026-07-22",
+    "nextVisitObjective": "Discuss elderly-patient information and collect feedback."
+  },
+  {
+    "visitId": "VIS-002",
+    "visitDate": "2026-07-22",
+    "employeeId": "MR-001",
+    "doctorId": "DOC-001",
+    "objective": "Follow up on CardioMax 20",
+    "productsDiscussed": [
+      "MED-001"
+    ],
+    "doctorQuestions": [
+      "Asked about common adverse effects"
+    ],
+    "feedback": "Initial feedback was positive and doctor requested additional samples.",
+    "competitorsMentioned": [],
+    "samplesProvided": 20,
+    "followUpRequired": true,
+    "followUpDate": "2026-08-05",
+    "nextVisitObjective": "Review patient feedback and adherence."
+  },
+  {
+    "visitId": "VIS-003",
+    "visitDate": "2026-08-05",
+    "employeeId": "MR-001",
+    "doctorId": "DOC-001",
+    "objective": "Review patient feedback",
+    "productsDiscussed": [
+      "MED-001"
+    ],
+    "doctorQuestions": [
+      "Asked about adherence in elderly patients"
+    ],
+    "feedback": "Positive response reported; doctor wants concise educational material.",
+    "competitorsMentioned": [
+      "Fictional competitor CardioPlus 20"
+    ],
+    "samplesProvided": 10,
+    "followUpRequired": true,
+    "followUpDate": "2026-08-26",
+    "nextVisitObjective": "Provide educational material and discuss competitor positioning."
+  },
+  {
+    "visitId": "VIS-004",
+    "visitDate": "2026-08-26",
+    "employeeId": "MR-001",
+    "doctorId": "DOC-001",
+    "objective": "Product education",
+    "productsDiscussed": [
+      "MED-001",
+      "MED-002"
+    ],
+    "doctorQuestions": [
+      "Asked to compare CardioMax 20 and PressSure 10"
+    ],
+    "feedback": "Doctor is interested in both products and wants patient-case examples.",
+    "competitorsMentioned": [],
+    "samplesProvided": 10,
+    "followUpRequired": true,
+    "followUpDate": "2026-09-15",
+    "nextVisitObjective": "Discuss patient-case examples."
+  },
+  {
+    "visitId": "VIS-005",
+    "visitDate": "2026-09-15",
+    "employeeId": "MR-001",
+    "doctorId": "DOC-001",
+    "objective": "Discuss patient cases",
+    "productsDiscussed": [
+      "MED-001"
+    ],
+    "doctorQuestions": [
+      "Asked about elderly-patient use cases"
+    ],
+    "feedback": "Doctor requested additional product information and samples.",
+    "competitorsMentioned": [
+      "Fictional competitor CardioPlus 20"
+    ],
+    "samplesProvided": 15,
+    "followUpRequired": true,
+    "followUpDate": "2026-09-29",
+    "nextVisitObjective": "Deliver requested material and samples."
+  },
+  {
+    "visitId": "VIS-006",
+    "visitDate": "2026-09-29",
+    "employeeId": "MR-001",
+    "doctorId": "DOC-001",
+    "objective": "Close open follow-up",
+    "productsDiscussed": [
+      "MED-001"
+    ],
+    "doctorQuestions": [
+      "Asked whether more educational material is available"
+    ],
+    "feedback": "Doctor remains interested and asked for continued follow-up.",
+    "competitorsMentioned": [],
+    "samplesProvided": 10,
+    "followUpRequired": true,
+    "followUpDate": "2026-10-12",
+    "nextVisitObjective": "Review new feedback and identify next discussion topic."
+  },
+  {
+    "visitId": "VIS-007",
+    "visitDate": "2026-07-10",
+    "employeeId": "MR-002",
+    "doctorId": "DOC-002",
+    "objective": "Product introduction",
+    "productsDiscussed": [
+      "MED-002"
+    ],
+    "doctorQuestions": [
+      "Asked about patient adherence"
+    ],
+    "feedback": "Doctor requested simple product information.",
+    "competitorsMentioned": [],
+    "samplesProvided": 10,
+    "followUpRequired": true,
+    "followUpDate": "2026-08-07",
+    "nextVisitObjective": "Collect initial feedback."
+  },
+  {
+    "visitId": "VIS-008",
+    "visitDate": "2026-08-07",
+    "employeeId": "MR-002",
+    "doctorId": "DOC-002",
+    "objective": "Collect feedback",
+    "productsDiscussed": [
+      "MED-002"
+    ],
+    "doctorQuestions": [
+      "Asked about common patient concerns"
+    ],
+    "feedback": "Doctor reported positive feedback and requested another discussion.",
+    "competitorsMentioned": [
+      "Fictional competitor PressPro 10"
+    ],
+    "samplesProvided": 10,
+    "followUpRequired": true,
+    "followUpDate": "2026-09-04",
+    "nextVisitObjective": "Compare product feedback with competitor discussion."
+  },
+  {
+    "visitId": "VIS-009",
+    "visitDate": "2026-09-04",
+    "employeeId": "MR-002",
+    "doctorId": "DOC-002",
+    "objective": "Follow up",
+    "productsDiscussed": [
+      "MED-002"
+    ],
+    "doctorQuestions": [
+      "Asked about follow-up information"
+    ],
+    "feedback": "Doctor asked for concise patient education material.",
+    "competitorsMentioned": [],
+    "samplesProvided": 5,
+    "followUpRequired": true,
+    "followUpDate": "2026-10-02",
+    "nextVisitObjective": "Provide patient education material."
+  },
+  {
+    "visitId": "VIS-010",
+    "visitDate": "2026-07-06",
+    "employeeId": "MR-003",
+    "doctorId": "DOC-003",
+    "objective": "Introduce GlucoBalance XR",
+    "productsDiscussed": [
+      "MED-003"
+    ],
+    "doctorQuestions": [
+      "Asked about adherence considerations"
+    ],
+    "feedback": "Doctor requested information focused on long-term patient adherence.",
+    "competitorsMentioned": [
+      "Fictional competitor GlycoCare XR"
+    ],
+    "samplesProvided": 10,
+    "followUpRequired": true,
+    "followUpDate": "2026-07-27",
+    "nextVisitObjective": "Discuss adherence feedback."
+  },
+  {
+    "visitId": "VIS-011",
+    "visitDate": "2026-07-27",
+    "employeeId": "MR-003",
+    "doctorId": "DOC-003",
+    "objective": "Discuss adherence",
+    "productsDiscussed": [
+      "MED-003"
+    ],
+    "doctorQuestions": [
+      "Asked what patient concerns are commonly reported"
+    ],
+    "feedback": "Doctor requested a summary of common concerns.",
+    "competitorsMentioned": [],
+    "samplesProvided": 10,
+    "followUpRequired": true,
+    "followUpDate": "2026-08-24",
+    "nextVisitObjective": "Review doctor feedback."
+  },
+  {
+    "visitId": "VIS-012",
+    "visitDate": "2026-08-24",
+    "employeeId": "MR-003",
+    "doctorId": "DOC-003",
+    "objective": "Review feedback",
+    "productsDiscussed": [
+      "MED-003"
+    ],
+    "doctorQuestions": [
+      "Asked about long-term therapy discussions"
+    ],
+    "feedback": "Doctor remains interested and requested another follow-up.",
+    "competitorsMentioned": [],
+    "samplesProvided": 10,
+    "followUpRequired": true,
+    "followUpDate": "2026-09-21",
+    "nextVisitObjective": "Review new feedback."
+  },
+  {
+    "visitId": "VIS-013",
+    "visitDate": "2026-09-21",
+    "employeeId": "MR-003",
+    "doctorId": "DOC-003",
+    "objective": "Quarterly follow-up",
+    "productsDiscussed": [
+      "MED-003"
+    ],
+    "doctorQuestions": [
+      "Asked for updated product information"
+    ],
+    "feedback": "Doctor requested updated fictional product material.",
+    "competitorsMentioned": [
+      "Fictional competitor GlycoCare XR"
+    ],
+    "samplesProvided": 10,
+    "followUpRequired": true,
+    "followUpDate": "2026-10-19",
+    "nextVisitObjective": "Provide updated material."
+  },
+  {
+    "visitId": "VIS-014",
+    "visitDate": "2026-07-12",
+    "employeeId": "MR-003",
+    "doctorId": "DOC-004",
+    "objective": "Introduce OrthoRelief Plus",
+    "productsDiscussed": [
+      "MED-004"
+    ],
+    "doctorQuestions": [
+      "Asked about patient feedback"
+    ],
+    "feedback": "Doctor requested more product information.",
+    "competitorsMentioned": [],
+    "samplesProvided": 5,
+    "followUpRequired": true,
+    "followUpDate": "2026-08-09",
+    "nextVisitObjective": "Collect feedback."
+  },
+  {
+    "visitId": "VIS-015",
+    "visitDate": "2026-08-09",
+    "employeeId": "MR-003",
+    "doctorId": "DOC-004",
+    "objective": "Collect feedback",
+    "productsDiscussed": [
+      "MED-004"
+    ],
+    "doctorQuestions": [
+      "Asked about tolerability feedback"
+    ],
+    "feedback": "Doctor reported interest and asked for another follow-up.",
+    "competitorsMentioned": [
+      "Fictional competitor OrthoFast"
+    ],
+    "samplesProvided": 5,
+    "followUpRequired": true,
+    "followUpDate": "2026-09-06",
+    "nextVisitObjective": "Discuss feedback and competitor positioning."
+  },
+  {
+    "visitId": "VIS-016",
+    "visitDate": "2026-09-06",
+    "employeeId": "MR-003",
+    "doctorId": "DOC-004",
+    "objective": "Follow up",
+    "productsDiscussed": [
+      "MED-004"
+    ],
+    "doctorQuestions": [
+      "Asked for additional educational material"
+    ],
+    "feedback": "Doctor requested a concise summary for clinic staff.",
+    "competitorsMentioned": [],
+    "samplesProvided": 5,
+    "followUpRequired": true,
+    "followUpDate": "2026-10-04",
+    "nextVisitObjective": "Deliver summary and collect new feedback."
+  },
+  {
+    "visitId": "VIS-017",
+    "visitDate": "2026-07-15",
+    "employeeId": "MR-004",
+    "doctorId": "DOC-005",
+    "objective": "Introduce PediaCare Syrup",
+    "productsDiscussed": [
+      "MED-005"
+    ],
+    "doctorQuestions": [
+      "Asked about caregiver adherence"
+    ],
+    "feedback": "Doctor requested information suitable for caregiver discussions.",
+    "competitorsMentioned": [
+      "Fictional competitor KidCare Syrup"
+    ],
+    "samplesProvided": 10,
+    "followUpRequired": true,
+    "followUpDate": "2026-08-19",
+    "nextVisitObjective": "Discuss caregiver feedback."
+  },
+  {
+    "visitId": "VIS-018",
+    "visitDate": "2026-08-19",
+    "employeeId": "MR-004",
+    "doctorId": "DOC-005",
+    "objective": "Discuss caregiver feedback",
+    "productsDiscussed": [
+      "MED-005"
+    ],
+    "doctorQuestions": [
+      "Asked about palatability feedback"
+    ],
+    "feedback": "Doctor reported positive caregiver comments and requested samples.",
+    "competitorsMentioned": [],
+    "samplesProvided": 15,
+    "followUpRequired": true,
+    "followUpDate": "2026-09-16",
+    "nextVisitObjective": "Review new caregiver feedback."
+  },
+  {
+    "visitId": "VIS-019",
+    "visitDate": "2026-09-16",
+    "employeeId": "MR-004",
+    "doctorId": "DOC-005",
+    "objective": "Review feedback",
+    "productsDiscussed": [
+      "MED-005"
+    ],
+    "doctorQuestions": [
+      "Asked for additional product information"
+    ],
+    "feedback": "Doctor remains interested and wants periodic follow-up.",
+    "competitorsMentioned": [
+      "Fictional competitor KidCare Syrup"
+    ],
+    "samplesProvided": 10,
+    "followUpRequired": true,
+    "followUpDate": "2026-10-14",
+    "nextVisitObjective": "Review new feedback and samples requirement."
+  },
+  {
+    "visitId": "VIS-020",
+    "visitDate": "2026-07-18",
+    "employeeId": "MR-002",
+    "doctorId": "DOC-006",
+    "objective": "Product discussion",
+    "productsDiscussed": [
+      "MED-002"
+    ],
+    "doctorQuestions": [
+      "Asked about patient concerns"
+    ],
+    "feedback": "Doctor requested practical patient discussion points.",
+    "competitorsMentioned": [],
+    "samplesProvided": 5,
+    "followUpRequired": true,
+    "followUpDate": "2026-08-08",
+    "nextVisitObjective": "Review patient feedback."
+  },
+  {
+    "visitId": "VIS-021",
+    "visitDate": "2026-08-08",
+    "employeeId": "MR-002",
+    "doctorId": "DOC-006",
+    "objective": "Review feedback",
+    "productsDiscussed": [
+      "MED-002"
+    ],
+    "doctorQuestions": [
+      "Asked about common concerns"
+    ],
+    "feedback": "Doctor requested concise educational content.",
+    "competitorsMentioned": [
+      "Fictional competitor PressPro 10"
+    ],
+    "samplesProvided": 5,
+    "followUpRequired": true,
+    "followUpDate": "2026-08-29",
+    "nextVisitObjective": "Provide educational content."
+  },
+  {
+    "visitId": "VIS-022",
+    "visitDate": "2026-08-29",
+    "employeeId": "MR-002",
+    "doctorId": "DOC-006",
+    "objective": "Educational follow-up",
+    "productsDiscussed": [
+      "MED-002"
+    ],
+    "doctorQuestions": [
+      "Asked for additional samples"
+    ],
+    "feedback": "Doctor requested additional samples for discussion with clinic staff.",
+    "competitorsMentioned": [],
+    "samplesProvided": 15,
+    "followUpRequired": true,
+    "followUpDate": "2026-09-19",
+    "nextVisitObjective": "Check sample usage and collect feedback."
+  },
+  {
+    "visitId": "VIS-023",
+    "visitDate": "2026-09-19",
+    "employeeId": "MR-002",
+    "doctorId": "DOC-006",
+    "objective": "Sample follow-up",
+    "productsDiscussed": [
+      "MED-002"
+    ],
+    "doctorQuestions": [
+      "Asked about updated information"
+    ],
+    "feedback": "Doctor requested updated material and another follow-up.",
+    "competitorsMentioned": [],
+    "samplesProvided": 10,
+    "followUpRequired": true,
+    "followUpDate": "2026-10-10",
+    "nextVisitObjective": "Deliver updated material."
+  }
+]
