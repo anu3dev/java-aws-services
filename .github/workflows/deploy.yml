@@ -42,10 +42,7 @@ jobs:
         run: |
           aws lambda update-function-configuration \
             --function-name java-aws-services \
-            --environment "Variables={
-              BEDROCK_KNOWLEDGE_BASE_ID=${{ secrets.BEDROCK_KNOWLEDGE_BASE_ID }},
-              BEDROCK_MODEL_ID=amazon.nova-micro-v1:0
-            }"
+            --environment "Variables={BEDROCK_KNOWLEDGE_BASE_ID=${{ secrets.BEDROCK_KNOWLEDGE_BASE_ID }},BEDROCK_MODEL_ID=${{ secrets.BEDROCK_MODEL_ID }}}"
 
       - name: Deploy to Lambda
         run: |
