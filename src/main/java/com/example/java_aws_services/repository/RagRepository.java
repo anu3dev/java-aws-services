@@ -50,11 +50,11 @@ public class RagRepository {
 
     public String queryKnowledgeBase(String question) {
 
-        String modelArn =
-                "arn:aws:bedrock:"
-                        + System.getenv("AWS_REGION")
-                        + "::inference-profile/"
-                        + modelId;
+//        String modelArn =
+//                "arn:aws:bedrock:"
+//                        + System.getenv("AWS_REGION")
+//                        + "::inference-profile/"
+//                        + modelId;
 
         RetrieveAndGenerateRequest request =
                 RetrieveAndGenerateRequest.builder()
@@ -68,7 +68,7 @@ public class RagRepository {
                                                         KnowledgeBaseRetrieveAndGenerateConfiguration
                                                                 .builder()
                                                                 .knowledgeBaseId(knowledgeBaseId)
-                                                                .modelArn(modelArn)
+                                                                .modelArn(modelId)
                                                                 .build())
                         )
                         .build();
